@@ -1,0 +1,27 @@
+/* donner unstyle a l'application*/
+
+
+
+h1{
+  color: blue;
+  text-align: center;
+}
+.user-table {
+  margin: 0 auto; 
+  text-align: center; 
+  width: 60%;
+}
+
+
+.user-table th, .user-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.user-table th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+
